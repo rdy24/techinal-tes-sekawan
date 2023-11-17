@@ -51,3 +51,12 @@
 1. **Admin** (email: admin@gmail.com | password: admin123)
 2. **Manager** (email: manager@gmail.com | password: manager123)
 3. **Supervisor** (email: supervisor@gmail.com | password: supervisor123)
+
+## Physical Data Model
+![tes-sekawan](https://github.com/rdy24/techinal-tes-sekawan/assets/71616287/d7a42c2f-2519-474d-a716-e7b1833aa74f)
+
+## Activity Diagram
+![sekawan-test](https://github.com/rdy24/techinal-tes-sekawan/assets/71616287/245b26f9-1a3e-4fd8-a16d-ddbbb8f85753)
+
+
+
